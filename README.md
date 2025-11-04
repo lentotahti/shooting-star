@@ -35,3 +35,5 @@ joka luo `/hinnasto/tiedoston-nimi-_hinnasto-kansiossa/` sivustot.
 Sivujen sisältö tehdään [Markdown](https://www.markdownguide.org/basic-syntax/) kielellä. Jekyll framework luo niistä html:n
 
 [Täällä](https://mmistakes.github.io/minimal-mistakes/year-archive/) on esimerkkejä mitä kaikkea voi helposti tehdä ja [täällä](https://github.com/mmistakes/minimal-mistakes/tree/master/docs) miten ne on tehty.
+
+All rights reserved
