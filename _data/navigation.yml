@@ -3,8 +3,8 @@ main:
     url: /esittely/
   - title: "Palvelut"
     url: /palvelut/
-  - title: "Tapahtumat"
-    url: /tapahtumat/
+  - title: "Uutiset"
+    url: /uutiset/
   - title: "Kalenteri"
     url: /kalenteri/
   - title: "Yhteystiedot"

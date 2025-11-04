@@ -58,21 +58,22 @@ plugins:
 author:
   name   : "Mira Kylliäinen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Suomen kaunein polkujuoksija"
+  bio    : "Polkujuoksija, liikuntaneuvoja, PT"
   links:
+    - label: "Lentotähden Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/tmi.lentotahti/"
     - label: "Miran Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/miratms/"
-    - label: "Lentotähti Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/tmi.lentotahti/"
+    
 
 footer:
   links:
-    - label: "Instagram"
+    - label: "Lentotähden Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/miratms/"
-    - label: "Instagram"
+    - label: "Miran Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/tmi.lentotahti/"
 

@@ -2,8 +2,8 @@
 title: "Kalenteri"
 permalink: /kalenteri/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Europe%2FHelsinki&amp;showPrint=0&amp;hl=fi&amp;mode=AGENDA&amp;showCalendars=0&amp;src=b3NraWxsYWF0aW9AZ21haWwuY29t&amp;color=%234285F4" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=b901f44123d492762f879d98e62e73ea4c15f70e34085a11158ff194cf46f9b2%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

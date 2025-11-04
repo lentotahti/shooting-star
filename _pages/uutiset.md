@@ -1,6 +1,6 @@
 ---
-title: "Tapahtumat"
-permalink: /tapahtumat/
+title: "Uutiset"
+permalink: /uutiset/
 layout: posts
 author_profile: false
 ---
