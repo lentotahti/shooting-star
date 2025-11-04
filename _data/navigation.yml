@@ -1,0 +1,13 @@
+main:
+  - title: "Esittely"
+    url: /esittely/
+  - title: "Palvelut"
+    url: /palvelut/
+  - title: "Tapahtumat"
+    url: /tapahtumat/
+  - title: "Kalenteri"
+    url: /kalenteri/
+  - title: "Yhteystiedot"
+    url: /yhteystiedot/
+  - title: "Hinnasto"
+    url: /hinnasto/
