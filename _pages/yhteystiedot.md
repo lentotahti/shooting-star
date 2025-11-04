@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 
-Sijaitsee Espoossa
+Ota rohkeasti yhteyttä, sähköpostilla tai Instagramissa!
 
 ## Sähköposti
 
-[lentotahti@gmail.com](mailto:lentotahti@gmail.com)
+[tmilentotahti@gmail.com](mailto:tmilentotahti@gmail.com)
+
+## Instagram
+
+<a href="https://www.instagram.com/tmi.lentotahti/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Lentotähden Instagram</span></a>

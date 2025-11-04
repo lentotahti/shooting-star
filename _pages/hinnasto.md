@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Täällä on tiedostot `_hinnasto` kansiosta.
+Work In Progress, TBA.
