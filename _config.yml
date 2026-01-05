@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Mira Kylliäinen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Polkujuoksija, liikuntaneuvoja, PT"
+  bio    : "Polkujuoksija, Personal Trainer"
   links:
     - label: "Lentotähden Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -72,10 +72,10 @@ footer:
   links:
     - label: "Lentotähden Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/miratms/"
+      url: "https://www.instagram.com/tmi.lentotahti/"
     - label: "Miran Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/tmi.lentotahti/"
+      url: "https://www.instagram.com/miratms/"
 
 defaults:
   # _posts
