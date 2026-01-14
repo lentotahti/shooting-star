@@ -14,7 +14,7 @@ quote:
 Lentotähti tarjoaa PT-valmennusta, juoksu- ja polkujuoksuvalmennusta sekä hyvinvointivalmennusta kaikille kiinnostuneille. 
 
 
-Lentotähti järjestää polkujuoksen viikkotreenejä tiistaisin vaihtuvassa paikassa pääosin Espoossa (ks. [Kalenteri](/kalenteri/)). Viikkotreeneihin voit tulla mukaan koko kaudeksi tai yksittäisille kerroille. Kevään viikkotreenit alkavat 14.1.2026.
+Lentotähti järjestää polkujuoksen viikkotreenejä tiistaisin vaihtuvassa paikassa pääosin Espoossa (ks. [Kalenteri](/kalenteri/)). Viikkotreeneihin voit tulla mukaan koko kaudeksi tai yksittäisille kerroille. Kevään viikkotreenit alkavat 20.1.2026.
 
 
 {% include feature_row id="quote" type="center" %}
