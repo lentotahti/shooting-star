@@ -1,8 +1,6 @@
 main:
   - title: "Esittely"
     url: /esittely/
-  - title: "Palvelut"
-    url: /palvelut/
   - title: "Uutiset"
     url: /uutiset/
   - title: "Kalenteri"
