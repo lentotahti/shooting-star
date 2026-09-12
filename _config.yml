@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Mira Kylliäinen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Polkujuoksija, Personal Trainer"
+  bio    : "Polkujuoksija<br />Liikuntaneuvoja (AT)<br />Personal Trainer"
   links:
     - label: "Lentotähden Instagram"
       icon: "fab fa-fw fa-instagram"

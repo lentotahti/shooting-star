@@ -1,7 +1,7 @@
 ---
 title: "Uudet nettisivut!"
 header:
-  overlay_image: /assets/images/promo/running-trail.jpg
+  overlay_color: "#83844e"
 categories:
   - uutiset
 tags:

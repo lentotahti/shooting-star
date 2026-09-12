@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 
-Ota rohkeasti yhteyttä, sähköpostilla tai Instagramissa!
+Ota rohkeasti yhteyttä, WhatsApilla, sähköpostilla tai Instagramissa!
+
+## Numero
+[0443431180](tel:0443431180)
 
 ## Sähköposti
 
