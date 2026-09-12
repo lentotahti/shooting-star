@@ -9,9 +9,9 @@ classes: wide
 
 Alla on kuvattuna yleisimmät valmennuspaketit ja treenihinnastot. Jos olet kiinnostunut erilaisista kokonaisuuksista, ota rohkeasti yhteyttä. 
 
-## 1. Etäjuoksuvalmennus/hyvinvointivalmennus voimaohjelmalla
+## 1. Etävalmennus voimaohjelmalla
 
-Tämä paketti sisältää yksilöllisen, sinulle suunnitellun 1-4 viikon välein päivittyvän päivittäisen treeniohjelman sekä sinulle yksilöllisesti suunnitellun jaksottain vaihtuvan voimaohjelman. Lisäksi ohjelmaan kuuluu paketti juoksukoordinaatioiden ohjevideoita. Valmennus sopii tavoitteellisesti treenaavalle juoksijalle, aloittelevalle juoksijalle, elämäntaparemonttia suunnittelevalle tai ihmiselle, joka kaipaa lisää liikettä arkeensa terveytensä edistämiseksi. Treeniohjelma pohjautuu sinun arkeesi, taustaasi ja tavoitteisiisi.
+Kyseessä voi olla etäjuoksuvalmennus tai etäkuntovalmennus. Tämä paketti sisältää yksilöllisen, sinulle suunnitellun 1-4 viikon välein päivittyvän päivittäisen treeniohjelman sekä sinulle yksilöllisesti suunnitellun jaksottain vaihtuvan voimaohjelman. Lisäksi ohjelmaan kuuluu paketti juoksukoordinaatioiden ohjevideoita. Valmennus sopii tavoitteellisesti treenaavalle juoksijalle, aloittelevalle juoksijalle, elämäntaparemonttia suunnittelevalle tai ihmiselle, joka kaipaa lisää liikettä arkeensa terveytensä edistämiseksi. Treeniohjelma pohjautuu sinun arkeesi, taustaasi ja tavoitteisiisi.
 
 Paketti sisältää:
 - Alkukartoitus: tausta ja tavoitteen asettaminen
@@ -22,9 +22,9 @@ Paketti sisältää:
 - Kisatapahtumiin valmistautumisen tukemisen
 - Hinta 120e / kk (maksu onnistuu myös Epassilla ja Edenredillä)
 
-## 2. Etäjuoksuvalmennus / etähyvinvointivalmennus
+## 2. Etävalmennus
 
-Tämä paketti sisältää yksilöllisen, sinulle suunnitellun 1-4 viikon välein päivittyvän päivittäisen treeniohjelman. Lisäksi ohjelmaan kuuluu paketti lihaskuntoharjoitteita sekä juoksukoordinaatioiden ohjevideoita. Valmennus sopii tavoitteellisesti treenaavalle juoksijalle, aloittelevalle juoksijalle, elämäntaparemonttia suunnittelevalle tai ihmiselle, joka kaipaa lisää liikettä arkeensa terveytensä edistämiseksi. Treeniohjelma pohjautuu sinun arkeesi, taustaasi ja tavoitteisiisi.
+Kyseessä voi olla etäjuoksuvalmennus tai etäkuntovalmennus. Tämä paketti sisältää yksilöllisen, sinulle suunnitellun 1-4 viikon välein päivittyvän päivittäisen treeniohjelman. Lisäksi ohjelmaan kuuluu paketti lihaskuntoharjoitteita sekä juoksukoordinaatioiden ohjevideoita. Valmennus sopii tavoitteellisesti treenaavalle juoksijalle, aloittelevalle juoksijalle, elämäntaparemonttia suunnittelevalle tai ihmiselle, joka kaipaa lisää liikettä arkeensa terveytensä edistämiseksi. Treeniohjelma pohjautuu sinun arkeesi, taustaasi ja tavoitteisiisi.
 
 Paketti sisältää: 
 - Alkukartoitus: tausta ja tavoitteen asettaminen

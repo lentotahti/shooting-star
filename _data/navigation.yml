@@ -3,9 +3,10 @@ main:
     url: /esittely/
   - title: "Uutiset"
     url: /uutiset/
+  - title: "Palvelut & Hinnasto"
+    url: /hinnasto/
   - title: "Kalenteri"
     url: /kalenteri/
   - title: "Yhteystiedot"
     url: /yhteystiedot/
-  - title: "Hinnasto"
-    url: /hinnasto/
+  

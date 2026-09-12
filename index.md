@@ -16,7 +16,7 @@ Lentotähti tarjoaa juoksu- ja polkujuoksuvalmennusta sekä hyvinvointivalmennus
 Lentotähti haluaa liikuttaa ihmisiä luonnossa! Järjestän erilaisia yhteistreenejä niin etänä Espoossa kuin lähitreenejä Ylivieskassa. Ylivieskaan on suunnitteilla polkujuoksutreenejä niin lapsille kuin aikuisillekin. Katso lisää [Palvelut Ylivieskassa](/uutiset/lentotahti-muuttanut/).
 
 
-Espoossa järjestän polkujuoksun etäviikkotreenejä tiistaisin vaihtuvassa paikassa (ks. [Kalenteri](/kalenteri/)). Viikkotreeneihin voit tulla mukaan koko kaudeksi tai yksittäisille kerroille. Syksyn viikkotreenit ovat käynnissä 25.8.-15.12.2026. Katso lisää [Espoon etäreenit](/uutiset/etatreenit-alkavat/).
+Espoossa järjestän polkujuoksun etäviikkotreenejä tiistaisin vaihtuvassa paikassa (ks. [Kalenteri](/kalenteri/)). Viikkotreeneihin voit tulla mukaan koko kaudeksi tai yksittäisille kerroille. Syksyn viikkotreenit ovat käynnissä 25.8.-15.12.2026. Katso lisää [Espoon etätreenit](/uutiset/etatreenit-alkavat/).
 
 
 {% include feature_row id="quote" type="center" %}
