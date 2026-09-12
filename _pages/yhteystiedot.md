@@ -10,6 +10,12 @@ Ota rohkeasti yhteyttä, WhatsAppilla, sähköpostilla tai Instagramissa!
 
 ## Numero
 [0443431180](tel:0443431180)
+<br>
+<a href="https://wa.me/0443431180" target="_blank" class="whatsapp-btn">
+  <!-- You can substitute this with your own image URL or an SVG icon -->
+  <img src="/assets/images/wa/wa_logo.svg" alt="WhatsApp" width="20" height="20">
+  WhatsApp
+</a>
 
 ## Sähköposti
 

@@ -11,7 +11,8 @@ quote:
             *Olet oman elämäsi tähti!*'
 ---
 
-Lentotähti tarjoaa juoksu- ja polkujuoksuvalmennusta sekä hyvinvointivalmennusta kaikille kiinnostuneille. Olet sitten jo kokeneempi juoksija, juoksu-urasi alussa tai kaipaat arkeesi enemmän liikettä, autan sinua mielelläni kohti tavoitettasi. Valmennan suurella sydämellä. Valmennus perustuu aina sinun taustaasi ja matkalla mennään kohti sinun tavoitettasi. 
+Lentotähti tarjoaa [valmennus- ja liikuntapalveluita kaiken ikäisille](/hinnasto/). Palvelutarjontaan kuuluu (polku)juoksuvalmennusta, kuntovalmennusta ja tukea liikunnan aloittamiseen tai lisäämiseen arkeen. Lentotähti järjestää erilaisia yhteistreenejä, kuten polkujuoksutreenejä ja luontokuntosaleja.
+Olet sitten jo kokeneempi juoksija, juoksu-urasi alussa tai kaipaat arkeesi enemmän liikettä ja hyvinvointia, autan sinua mielelläni kohti tavoitettasi. Valmennan suurella sydämellä. Valmennus perustuu aina sinun taustaasi ja matkalla mennään kohti sinun tavoitettasi. 
 
 Lentotähti haluaa liikuttaa ihmisiä luonnossa! Järjestän erilaisia yhteistreenejä niin etänä Espoossa kuin lähitreenejä Ylivieskassa. Ylivieskaan on suunnitteilla polkujuoksutreenejä niin lapsille kuin aikuisillekin. Katso lisää [Palvelut Ylivieskassa](/uutiset/lentotahti-muuttanut/).
 
