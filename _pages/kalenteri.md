@@ -1,5 +1,6 @@
 ---
 title: "Kalenteri"
+description: "Katso Lentotähden polkujuoksuvalmennuksen ja juoksuvalmennuksen viikkotreenit sekä luontoliikuntatapahtumat kalenterista."
 permalink: /kalenteri/
 layout: single
 author_profile: false

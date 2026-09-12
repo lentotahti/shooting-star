@@ -1,10 +1,10 @@
 ---
 title: "Yhteystiedot"
+description: "Ota yhteyttä Lentotähteen polkujuoksuvalmennuksesta, juoksuvalmennuksesta tai luontoliikunnasta kiinnostuneena."
 permalink: /yhteystiedot/
 layout: single
 author_profile: true
 ---
-
 
 Ota rohkeasti yhteyttä, WhatsAppilla, sähköpostilla tai Instagramissa!
 

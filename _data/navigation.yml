@@ -1,4 +1,6 @@
 main:
+  - title: "Etusivu"
+    url: /
   - title: "Esittely"
     url: /esittely/
   - title: "Uutiset"

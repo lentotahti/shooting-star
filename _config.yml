@@ -14,13 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ""
+locale: "fi_FI"
+lang: "fi"
+url: "https://lentotahti.fi"
 logo: "/assets/images/logos/lentotahti-logo-punainen.svg"
 email: lentotahti@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hyvinvointia, luontoa, ja polkujuoksua
+  Polkujuoksuvalmennusta, juoksuvalmennusta ja luontoliikuntaa Espoossa ja Ylivieskassa. Yksilölliset treeniohjelmat, etävalmennus ja yhteistreenit kaiken tasoisille liikkujille.
 github_username: joonasky
 minimal_mistakes_skin: lentotahti
 search: true
+
+social:
+  type: Organization
+  name: "Lentotähti"
+  links:
+    - "https://www.instagram.com/tmi.lentotahti/"
+    - "https://www.instagram.com/miratms/"
 
 # Build settings
 markdown: kramdown
@@ -58,7 +68,7 @@ plugins:
 author:
   name   : "Mira Kylliäinen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Polkujuoksija<br />Liikuntaneuvoja (AT)<br />Personal Trainer"
+  bio    : "Polkujuoksija<br />Liikuntaneuvoja (AT)<br />Personal Trainer<br />FM Biologia"
   links:
     - label: "Lentotähden Instagram"
       icon: "fab fa-fw fa-instagram"
