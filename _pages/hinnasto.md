@@ -8,7 +8,7 @@ classes: wide
 ---
 
 Alla on kuvattuna yleisimmät valmennuspaketit ja treenihinnastot. Jos olet kiinnostunut erilaisista kokonaisuuksista, ota rohkeasti
-<a href="https://wa.me/0443431180" target="_blank" class="whatsapp-btn">
+<a href="https://wa.me/+358443431180" target="_blank" class="whatsapp-btn">
   <!-- You can substitute this with your own image URL or an SVG icon -->
   <img src="/assets/images/wa/wa_logo.svg" alt="WhatsApp" width="20" height="20">
   Yhteyttä.
