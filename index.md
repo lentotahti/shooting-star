@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-description: "Lentotähti tarjoaa polkujuoksuvalmennusta, juoksuvalmennusta ja luontoliikuntaa Espoossa ja Ylivieskassa. Yksilölliset treeniohjelmat, etävalmennus ja yhteistreenit kaiken tasoisille liikkujille."
+description: "Hyvinvointia, (polku)juoksuvalmennusta ja luontoliikuntaa"
 author_profile: true
 quote: 
   - excerpt: '*Lentotähti muistuttaa meitä siitä, että jokaisella on mahdollisuus kohota korkeuksiin.*
